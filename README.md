@@ -1,6 +1,6 @@
 # Target Brazil E-commerce Analysis (SQL | BigQuery)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a real-world e-commerce dataset from Target’s operations in Brazil. The dataset contains over 100,000 orders (2016–2018), covering customer behavior, payments, delivery performance, and product-level details.
 
@@ -8,7 +8,7 @@ The objective was to extract meaningful business insights and provide data-drive
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 As a data analyst, the task was to explore and analyze Target’s Brazil dataset to understand:
 
@@ -20,7 +20,7 @@ As a data analyst, the task was to explore and analyze Target’s Brazil dataset
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * SQL (Google BigQuery)
 * Data Analysis
@@ -28,7 +28,7 @@ As a data analyst, the task was to explore and analyze Target’s Brazil dataset
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
 ### 1. Exploratory Data Analysis
 
@@ -72,7 +72,7 @@ As a data analyst, the task was to explore and analyze Target’s Brazil dataset
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * E-commerce demand shows strong growth and seasonality
 * Revenue is concentrated in a few high-performing states
@@ -82,22 +82,20 @@ As a data analyst, the task was to explore and analyze Target’s Brazil dataset
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 * `target_ecommerce_codes.sql` – Queries used for data analysis and business insights
-* `target_ecommerce_report.pdf` – Detailed case study including problem statement, SQL/BigQuery queries, analysis, and key insights
+* `Target_analysis_report.pdf` – Detailed case study including problem statement, SQL/BigQuery queries, analysis, and key insights
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This analysis highlights key growth trends, operational challenges, and customer behavior patterns in Target’s Brazil operations. The insights can help improve logistics efficiency, optimize delivery timelines, and enhance customer experience.
 
 ---
 
-## 👤 Author
+## Author
 
-Shantanu Rawat
-Aspiring Data Analyst
-Shantanu1tech@gmail.com
-+91 9310315068 
+Shantanu Rawat | +91 9310315068 | Shantanu1tech@gmail.com | www.linkedin.com/in/shantanu-rawat
+ 
